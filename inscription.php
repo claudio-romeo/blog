@@ -1,6 +1,7 @@
 <?php
-include('header.php');
-include('connection.php');
+require_once 'bdd.php';
+// include('header.php');
+
 // Une page contenant un formulaire d’inscription (inscription.php) :
 //     Le formulaire doit contenir l’ensemble des champs présents dans la table
 //     “utilisateurs”  
