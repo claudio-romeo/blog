@@ -23,7 +23,9 @@
 </head>
 
 <body>
+    <nav>
 <?php
+
 // Un bouton de retour vers la page d’accueil, une liste déroulante contenant
 // les différentes catégories d’articles,
     echo '<nav>
